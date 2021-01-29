@@ -7,7 +7,7 @@ My major is **Economics📚**, and I have been studying **data science👩🏻�
 I have project experience using **Python(My most confident language)** and R.  
 I am very interested in **machine learning**.
 
-### 🤍Career
+### 🤍 Career
 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
