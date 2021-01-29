@@ -4,7 +4,7 @@
 
 Hi, there 👋 My name is Youji Sung.  
 
-My major is **Economics📚**, and I am studying **data science👩🏻‍💻** since 2020.  
+I'm majoring in **Economics📚**, and studying **data science👩🏻‍💻** since 2020.  
 I have several project experiences using **Python(My most confident language)** and R.  
 
 ### 🤍 Career
