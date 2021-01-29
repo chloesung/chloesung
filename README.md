@@ -4,8 +4,7 @@
 Hi, there 👋 My name is Youji Sung.  
 
 My major is **Economics📚**, and I have been studying **data science👩🏻‍💻** since 2020.  
-I have project experience using **Python(My most confident language)** and R.  
-I am very interested in **machine learning**.
+I have several project experiences using **Python(My most confident language)** and R.  
 
 ### 🤍 Career
 
