@@ -1,5 +1,5 @@
-[![Blog Badge](http://img.shields.io/badge/-chloesung-black?style=flat-square&logo=github&link=https://github.com/chloesung)](https://github.com/chloesung) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chloesung@korea.ac.kr)](mailto:chloesung@korea.ac.kr)
+[![Blog Badge](http://img.shields.io/badge/-chloesung-black?style=plastic&logo=github&link=https://github.com/chloesung)](https://github.com/chloesung) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:chloesung@korea.ac.kr)](mailto:chloesung@korea.ac.kr)
 
 
 Hi, there 👋 My name is Youji Sung.  
@@ -12,4 +12,3 @@ I have several project experiences using **Python(My most confident language)** 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Undergraduate** | 2018. 3 ~ | Department of Economics| **Korea University** |
-
