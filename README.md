@@ -1,6 +1,5 @@
 [![Blog Badge](http://img.shields.io/badge/-chloesung-black?style=flat-square&logo=github&link=https://github.com/chloesung)](https://github.com/chloesung) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat_square&logo=Gmail&logoColor=white&link=mailto:chloesung@korea.ac.kr)](mailto:chloesung@korea.ac.kr)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=plastic&logo=Gmail&logoColor=white&link=mailto:chloesung@korea.ac.kr)](mailto:chloesung@korea.ac.kr)
 
 Hi, there 👋 My name is Youji Sung.  
 
