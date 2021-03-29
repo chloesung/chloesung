@@ -11,5 +11,3 @@ I have several project experiences using **Python(My most confident language)** 
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Undergraduate** | 2018. 3 ~ | Department of Economics| **Korea University** |
-
-https://img.shields.io/endpoint?color=d&label=d
