@@ -1,5 +1,3 @@
-[![Blog Badge](http://img.shields.io/badge/-chloesung-black?&logo=github&link=https://github.com/chloesung)](https://github.com/chloesung) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat_square&logo=Gmail&logoColor=white&link=mailto:chloesung@korea.ac.kr)](mailto:chloesung@korea.ac.kr)
 ## Hi there, I'm Youji Sung 👋
 #### 🌱 I’m currently interested in NLP, DeepLearning</h4>
 <br>
@@ -8,8 +6,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/latex-%23008080.svg?style=flat-square&logo=LaTeX&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/r-%23276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/latex-%23008080?style=flat-square&logo=LaTeX&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
