@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Chloe Sung;&fontSize=90&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=ChloeSung;&fontSize=90&fontColor=000000)
 
 <h3 align="center"><i> Hi there ! </i></h3>
 <h6 align="center">I'm Chloe, a junior student majoring in <b>Economics</b>.<br>
