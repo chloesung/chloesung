@@ -1,10 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=ChloeSung&fontSize=90&fontColor=000000)
-
-<h3 align="center"><i> Hi there ! </i></h3>
-<h6 align="center">I'm Chloe, a junior student majoring in <b>Economics</b>.<br>
-Hope you enjoy reading my reposits. <br>
-If you have any questions regarding reposits, feel free to ask ! 🗣️</h6>
-
+## Hi there, I'm Youji Sung 👋
+#### 🌱 I’m currently interested in NLP, DeepLearning</h4>
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
