@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=2&height=300&section=header&text=Youji%20Sung&fontSize=90&desc=Desc&descAlign=20)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Youji%20Sung&fontAlign=80&fontAlignY=40&color=gradient)
 <br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
