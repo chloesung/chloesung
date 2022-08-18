@@ -29,7 +29,7 @@
 <br><br>
 <div align="center">
   
-![Youji's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloesung&show_icons=true&theme=swift)
+![Youji's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloesung&show_icons=true&theme=graywhite)
 
 
 </div>
