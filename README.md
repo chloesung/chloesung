@@ -29,8 +29,7 @@
 <br><br>
 <div align="center">
   
-
-[![Youji's github stats](https://github-readme-stats.vercel.app/api?username=chloesung)](https://github.com/anuraghazra/github-readme-stats)
+![Youji's GitHub stats](https://github-readme-stats.vercel.app/api?username=chloesung&show_icons=true&theme=solarized-light)
 
 
 </div>
