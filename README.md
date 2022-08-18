@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Youji%20Sung&color=gradient&desc=Hello,%20I'm%20)
 <br>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Tech Stack </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
@@ -10,11 +10,12 @@
 </p>
 
 <br>
-<h3 align="center">📫 Contact 📫</h3>
+<h3 align="center">📫 Contact </h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/uziuzing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
-<a href="mailto:chloesung@korea.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
+  <a href="https://www.instagram.com/youjisung"><img src="https://img.shields.io/badge/Instagram-E4405F? style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
+  <a href="mailto:chloesung@korea.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:chloesung@korea.ac.kr"><img src="https://img.shields.io/badge/Tistory-#000000?style=flat&logo=Tistory&logoColor=white"/></a>
 </p>
 
 
