@@ -13,7 +13,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/uziuzing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
+  <a href="https://www.instagram.com/uziuzing"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>
 <a href="mailto:chloesung@korea.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
 
