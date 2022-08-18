@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Youji%20Sung&color=gradient&customColorList=0,2&desc=Hi%20there!%20I'm%20&descAlign=36&descAlignY=29)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Youji%20Sung&color=gradient&customColorList=0,2,6&desc=Hi%20there!%20I'm%20&descAlign=36&descAlignY=29)
 <br>
 <h5 align="center">
   Hello, I'm a master's student majoring in Economics.  <br>
