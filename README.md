@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Youji%20Sung&color=gradient&desc=Hi%20there!%20I'm%20&descAlign=36&descAlignY=29)
 <br>
+<p align="center">
+  Hello, I'm a graduate student 
+</p>
+
 <h3 align="center">🛠 Tech Stack </h3>
 
 <p align="center">
