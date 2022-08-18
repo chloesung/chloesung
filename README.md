@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&text=Youji%20Sung&color=gradient&desc=Hi%20there!%20I'm%20&descAlign=36&descAlignY=29)
 <br>
-<p align="center">
+<h6 align="center">
   Hello, I'm a master's student dreaming to be an Economist.  <br>
   I'm interested in Applied Micro, Game theory and Deep Learning Methods.
   
-</p>
+</h6>
 
 <h3 align="center">🛠 Tech Stack </h3>
 
