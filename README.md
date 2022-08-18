@@ -2,11 +2,11 @@
 <br>
 <h5 align="center">
   Hello, I'm a master's student majoring in Economics.  <br>
-  I'm interested in Applied Micro, Game theory and Deep Learning Methods.
+  I'm interested in Applied Micro, Game theory and Deep Learning Methods. <br>
   Please feel free to contact me!
   
 </h5>
-
+<br>
 <h3 align="center">🛠 Tech Stack </h3>
 
 <p align="center">
