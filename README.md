@@ -4,10 +4,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/r-%23276DC3?style=flat&logo=R&logoColor=white"/></a>&nbsp   
+  <img src="https://img.shields.io/badge/R-%23276DC3?style=flat&logo=R&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/latex-%23008080?style=flat&logo=LaTeX&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/LaTeX-%23008080?style=flat&logo=LaTeX&logoColor=white"/></a>&nbsp 
 </p>
 
 <br>
