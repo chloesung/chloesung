@@ -2,7 +2,7 @@
 <br>
 <h5 align="center">
   Hello, I'm a master's student majoring in Economics.  <br>
-  I'm interested in Applied Micro, Game theory and Deep Learning Methods. <br>
+  I'm interested in Empirical Industrial Organization and Quantitative Marketing. <br>
   Please feel free to contact me!
   
 </h5>
